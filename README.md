@@ -6,7 +6,7 @@ A passionate Computer Science and Engineering student focused on building clean,
 
 ### 💻 About Me
 
-- 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering (6th Semester) at Swami Vivekananda University.
+- 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering (7th Semester) at Swami Vivekananda University.
 - 📜 **Academic Path:** Completed Polytechnic Diploma in Computer Science and Technology.
 - 🏅 **Milestones:** Achieved a 5-star Gold Badge in Python on HackerRank.
 - 🎯 **Current Focus:** Deep-diving into **MERN Stack Development** and creating intelligent digital models.
