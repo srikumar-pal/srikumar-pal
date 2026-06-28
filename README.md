@@ -1,4 +1,4 @@
-# Hi there, I'm Srikumar Pal! 🚀
+# Hi there, I'm Srikumar Pal! 
 
 A passionate Computer Science and Engineering student focused on building clean, functional, and impactful web solutions. I love turning complex problems into beautiful user interfaces and robust full-stack applications.
 
