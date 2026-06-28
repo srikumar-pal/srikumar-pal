@@ -71,8 +71,11 @@ A specialized console-based desktop tool implementing robust CRUD operations alo
 ---
 
 ## 🏅 Official Achievements & Badges
+
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=srikumar-pal&theme=onedark&column=4&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/srikumar-pal">
+    <img src="https://github-badges.github.io/badges/badges/quickdraw.png" alt="Quickdraw Badge" width="65" height="65" />
+  </a>
 </p>
 
 *✨ Feel free to explore my repositories, open an issue, or connect for full-stack collaborations! ✨*
